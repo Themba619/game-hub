@@ -6,3 +6,7 @@
   padding: 0;
   box-sizing: border-box; /* Ensures padding and border don't affect width/height calculations */
 }
+
+body {
+  min-width: 920px; /* Prevents layout from breaking on tiny screens */
+}

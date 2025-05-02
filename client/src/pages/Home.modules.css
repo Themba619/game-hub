@@ -1,0 +1,16 @@
+body{
+    margin: 10px;
+}
+
+.genre-name-container{
+    margin-right: 500px;
+}
+
+.order-by-container{
+    margin-top: -50px;
+}
+
+.movies-info{
+    margin-right: 100px;
+    margin-top: -150px;
+}
